@@ -145,6 +145,6 @@ function get_absolute_path($path) {
 }
 
 !defined('CONTROLLER_PATH') && define('CONTROLLER_PATH', ROOT.'controller/');
-onedrive::$client_id = config('client_id');
-onedrive::$client_secret = config('client_secret');
+onedrive::$client_id = config('b4778b49-c507-4986-804b-a5c82d964ac1');
+onedrive::$client_secret = config('csrcaSNL7243ubFSCS5{{*[');
 onedrive::$redirect_uri = config('redirect_uri');
